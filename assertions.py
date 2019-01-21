@@ -3,3 +3,7 @@ def age(value):
     print(value)
 inp=int(input('enter the age'))
 age(inp)
+HI
+HOW
+R
+U
